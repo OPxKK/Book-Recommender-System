@@ -18,4 +18,8 @@ setuptools      65.3.0 <br />
 six             1.16.0 <br />
 Werkzeug        2.2.2 <br />
 
+Dataset => https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+
+For Data Analytics, Tools used => Jupyter Notebook
+
 You can view the webapp here => https://bookco-app.herokuapp.com/
