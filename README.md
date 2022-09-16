@@ -2,7 +2,7 @@
 
 *Libraries used in this project*
 
-click           8.1.3
+click           8.1.3 <br />
 colorama        0.4.5
 Flask           2.2.2
 gunicorn        20.1.0
