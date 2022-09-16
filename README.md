@@ -20,6 +20,8 @@ setuptools      65.3.0 <br />
 six             1.16.0 <br />
 Werkzeug        2.2.2 <br />
 Pickle          <br />
+Sklearn         <br />
+cosine-similarity <br />
 
 **Other Important Tools Used**
 
