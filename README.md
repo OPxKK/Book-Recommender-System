@@ -18,8 +18,17 @@ setuptools      65.3.0 <br />
 six             1.16.0 <br />
 Werkzeug        2.2.2 <br />
 
+**Other Important Tools Used**
+
+HTML 5 <br />
+CSS 3 <br />
+Bootstrap 5 <br />
+Python 3 <br />
+
 Dataset => https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 For Data Analytics, Tools used => Jupyter Notebook
 
 You can view the webapp here => https://bookco-app.herokuapp.com/
+
+**Note :- One has to click on the Recommend button in the Navbar to get recommendations of the Book entered. Also one must enter the Book Name as it is (case sensitive). Try Entering '1984' for example.**
