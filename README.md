@@ -1,6 +1,6 @@
 # Book-Recommender-System
 
-*Libraries used in this project*
+**Libraries used in this project**
 
 click           8.1.3 <br />
 colorama        0.4.5 <br />
