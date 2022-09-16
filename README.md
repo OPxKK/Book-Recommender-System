@@ -17,6 +17,7 @@ pytz            2022.2.1 <br />
 setuptools      65.3.0 <br />
 six             1.16.0 <br />
 Werkzeug        2.2.2 <br />
+Pickle          <br />
 
 **Other Important Tools Used**
 
@@ -24,6 +25,7 @@ HTML 5 <br />
 CSS 3 <br />
 Bootstrap 5 <br />
 Python 3 <br />
+Machine Learning <br />
 
 Dataset => https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
