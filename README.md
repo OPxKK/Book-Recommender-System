@@ -1,6 +1,6 @@
 # Book-Recommender-System
 
- ## Project has performed using Recommender System methods namely Popularity Based Recommender System, Collaborative Filtering Based Recommender System
+ ## Project has been performed using Recommender System methods namely Popularity Based Recommender System, Collaborative Filtering Based Recommender System
 
 **Libraries used in this project**
 
